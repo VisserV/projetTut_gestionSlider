@@ -32,7 +32,8 @@ $slider = fopen("$cheminSlider", 'r+');
 </div><br><br>
 
   <script src="js/infiniteSlider2.js"></script>
-  <script src="js/call.js"></script>
+  <script src="js/call.js.php"></script>
+  <script src="js/jquery-3.2.1.js"></script>
 
 <?php
 
