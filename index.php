@@ -18,7 +18,7 @@
   <a href="index.php?page=3">Ajouter des images</a>
   <a href="index.php?page=4">Supprimer un slider</a>
   <a href="index.php?page=5">Modifier un slider</a>
-  <a href="index.php?page=6">modifier la vitesse</a>
+  <a href="index.php?page=6">Modifier la vitesse</a>
 </nav>
 
 <body>
@@ -59,12 +59,12 @@
       break;
 
     case 5:
-      //inclure ici la page pour supprimer un slider
+      //inclure ici la page pour modifier un slider
       include_once('pages/modifSlider.php');
       break;
 
     case 6:
-      //inclure ici la page pour supprimer un slider
+      //inclure ici la page pour changer la vitessse du slider
       include_once('pages/changerVitesse.php');
       break;
 
