@@ -4,9 +4,9 @@
 <form action="index.php?page=6" id="choixImages" method="post">
 <?php
   if (empty($_POST["vitesse"])){
-    echo"Entrez le nombre de secondes voulu entre chaque images :";
+    echo"Temps (en seconde) :";
     echo '<input type="text" name="vitesse">';
-    echo "\n";
+    echo "<br><br>";
     echo'<input type="submit" value="Valider " />';
   }
   else {
