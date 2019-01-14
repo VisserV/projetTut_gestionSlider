@@ -1,0 +1,5 @@
+./img/3.jpg
+./img/s3.jpg
+./img/s4.jpg
+./img/slide_img_73_1.png
+./img/slide_img_75_1.png
